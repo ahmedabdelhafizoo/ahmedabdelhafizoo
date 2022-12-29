@@ -9,7 +9,9 @@ I am a UI/Front End Developer with +3 years. I have a good experience with HTML,
 *   🌍  I'm based in Egypt
 *   ✉️  You can contact me at [ahmedabdelhafiz1@gmail.com](mailto:ahmedabdelhafiz1@gmail.com)
 *   🚀  I'm currently working on [Squadio](http://squadio.com)
-*   🧠  I'm learning React js & Typescript### Skills 
+*   🧠  I'm learning React js & Typescript
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
